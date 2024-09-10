@@ -1,0 +1,6 @@
+{"id":2,"makeModel":"Honda Civic","year":2003,"retailPrice":1545.0}
+{"id":5,"makeModel":"Toyota Corolla","year":2002,"retailPrice":321334.0}
+{"id":8,"makeModel":"Toyota Highlander","year":2001,"retailPrice":32315.0}
+{"id":2,"makeModel":"Honda Civic","year":2003,"retailPrice":1545.0}
+{"id":5,"makeModel":"Toyota Corolla","year":2002,"retailPrice":321334.0}
+{"id":8,"makeModel":"Toyota Highlander","year":2001,"retailPrice":32315.0}
